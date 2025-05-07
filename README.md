@@ -100,7 +100,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Features
 
-- Login and Sign up using Mobile OTP
+- Login and Sign up using Mobile  OTP
 - Search engine to search Flights
 - Sorting of flights as his price
 - Apply the coupon on your cart 
